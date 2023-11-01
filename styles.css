@@ -475,6 +475,18 @@ footer {
         flex-wrap: wrap;
     }
 
+    .book__ratings{
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .book__title {
+        text-align: center;
+    }
+    .book__price{
+        text-align: center;
+    }
+
 }
 
 @media(max-width: 550px) {
