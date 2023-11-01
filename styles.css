@@ -403,7 +403,7 @@ footer {
     color: white;
     position: relative;
     text-decoration: none;
-    margin-left: 24px;
+    padding: 0 12px;
 }
 
 .link__hover-effect:after {
